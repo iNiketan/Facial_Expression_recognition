@@ -21,3 +21,5 @@ for image
 
 
 todo:: code need cleaning and some modification
+        work on increasing the accuracy of the model 
+        
