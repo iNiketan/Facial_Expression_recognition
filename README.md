@@ -4,6 +4,8 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 
 ![alt text](https://github.com/iNiketan/Facial_Expression_recognition/blob/master/predict.jpg)
 
+![alt text](https://github.com/iNiketan/Facial_Expression_recognition/blob/master/prediction.jpg)
+
 train.py
 contain code for building and traing nural network on the dataset
 once dataset is trained save the model
